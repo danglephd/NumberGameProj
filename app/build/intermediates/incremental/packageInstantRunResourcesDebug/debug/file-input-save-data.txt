@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Tue Jul 03 14:52:35 ICT 2018
+0.baseType=DIRECTORY
+0.base=D\:\\Backup\\Android\\MyProjects\\Game2DBegin\\Game2D\\GameMenu\\app\\build\\intermediates\\assets\\debug
+0.path=data/fonts/floral.ttf
+0.set=ASSET
+count=1

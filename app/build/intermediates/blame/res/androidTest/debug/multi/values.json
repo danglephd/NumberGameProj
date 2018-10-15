@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "D:\\Backup\\Android\\MyProjects\\Game2DBegin\\Game2D\\GameMenu\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "C:\\Users\\danglph\\.android\\build-cache\\afa1e71ff7e9e702b8f71db07c5ad1325a5ed7ee\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    }
+]

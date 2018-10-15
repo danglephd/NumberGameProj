@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+	android:id="@+id/parent"
+  	xmlns:android="http://schemas.android.com/apk/res/android"
+  	android:layout_width="fill_parent"
+  	android:layout_height="fill_parent"
+	android:background="@layout/bgrepeat">
+
+	<LinearLayout	
+		android:orientation="vertical"
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent" >
+		
+	    <TextView 
+	    	android:text="SOUND ON" 
+	    	android:id="@+id/sound" 
+			style="@style/MenuFont" /> 
+			    
+	    <TextView 
+	    	android:text="MUSIC ON" 
+	    	android:id="@+id/music" 
+			style="@style/MenuFont" />
+	   
+	    <TextView 
+	    	android:text="VIBRATIONS ON" 
+	    	android:id="@+id/vibrate" 
+			style="@style/MenuFont" />
+	    
+	    <TextView 
+	    	android:text="GRAPHICS LOW" 
+	    	android:id="@+id/graphics" 
+			style="@style/MenuFont" />         
+		
+		<TextView
+	        android:text="BACK" 
+	        android:id="@+id/back" 
+			style="@style/SystemFont" />  
+			   
+  	</LinearLayout>
+</RelativeLayout>

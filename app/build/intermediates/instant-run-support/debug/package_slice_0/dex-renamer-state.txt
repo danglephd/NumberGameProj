@@ -1,0 +1,4 @@
+#Tue Jul 10 16:30:15 ICT 2018
+base.0=D\:\\Backup\\Android\\MyProjects\\Game2DBegin\\Game2D\\GameMenu\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

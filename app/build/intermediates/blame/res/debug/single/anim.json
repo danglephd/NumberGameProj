@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\Backup\\Android\\MyProjects\\Game2DBegin\\Game2D\\GameMenu\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\danglph\\.android\\build-cache\\c65f8be57cb40d5e774b6b03ea19f8850ee0cce4\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\Backup\\Android\\MyProjects\\Game2DBegin\\Game2D\\GameMenu\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\danglph\\.android\\build-cache\\c65f8be57cb40d5e774b6b03ea19f8850ee0cce4\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\Backup\\Android\\MyProjects\\Game2DBegin\\Game2D\\GameMenu\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\danglph\\.android\\build-cache\\c65f8be57cb40d5e774b6b03ea19f8850ee0cce4\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\Backup\\Android\\MyProjects\\Game2DBegin\\Game2D\\GameMenu\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\danglph\\.android\\build-cache\\c65f8be57cb40d5e774b6b03ea19f8850ee0cce4\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\Backup\\Android\\MyProjects\\Game2DBegin\\Game2D\\GameMenu\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\danglph\\.android\\build-cache\\c65f8be57cb40d5e774b6b03ea19f8850ee0cce4\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\Backup\\Android\\MyProjects\\Game2DBegin\\Game2D\\GameMenu\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\danglph\\.android\\build-cache\\c65f8be57cb40d5e774b6b03ea19f8850ee0cce4\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Backup\\Android\\MyProjects\\Game2DBegin\\Game2D\\GameMenu\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\danglph\\.android\\build-cache\\c65f8be57cb40d5e774b6b03ea19f8850ee0cce4\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\Backup\\Android\\MyProjects\\Game2DBegin\\Game2D\\GameMenu\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\danglph\\.android\\build-cache\\c65f8be57cb40d5e774b6b03ea19f8850ee0cce4\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\Backup\\Android\\MyProjects\\Game2DBegin\\Game2D\\GameMenu\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\danglph\\.android\\build-cache\\c65f8be57cb40d5e774b6b03ea19f8850ee0cce4\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\Backup\\Android\\MyProjects\\Game2DBegin\\Game2D\\GameMenu\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\danglph\\.android\\build-cache\\c65f8be57cb40d5e774b6b03ea19f8850ee0cce4\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    }
+]
